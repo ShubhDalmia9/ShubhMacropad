@@ -1,0 +1,7 @@
+Reference,Value,Footprint,Quantity,Category
+U1,Seeed XIAO RP2040,XIAO-Generic-Hybrid-14P-2.54-21x17.8mm,1,Microcontroller
+SW1-SW9,MX Switch,SW_Cherry_MX_1.00u_PCB,9,Switch
+D1-D9,1N4148,Diode_TH:D_DO-35_SOD27_P7.62mm_Horizontal,9,Diode
+SW10,Rotary Encoder EC11,RotaryEncoder_Alps_EC11_Switch_Vertical_H20mm,1,Encoder
+PCB,Custom PCB,N/A,1,PCB
+Case,3D Printed Case,N/A,1,Mechanical
