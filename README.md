@@ -33,6 +33,8 @@ fully assembled
 Part Stuidio
 
  - The Design was made in OnShape
+ - Design Link :
+   https://cad.onshape.com/documents/a280f0894019be8d3362bd64/w/67d5e1344d4c93c18eda979f/e/d96660c4f28b5cc322d90e8b?renderMode=0&uiState=69c8c5cffc6171d5b9f8606e
 
 PCB :
 -
