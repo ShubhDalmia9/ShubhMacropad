@@ -1,0 +1,25 @@
+A custom 9-key macropad with a rotary encoder, built using a custom PCB and powered by QMK firmware. The macropad supports multiple modes (Study, Creative, Focus) to provide different shortcut mappings based on workflow.
+
+Hardware Supported
+- Custom 3x3 macropad PCB  
+- Seeed XIAO RP2040  
+- 9 MX-style mechanical switches  
+- EC11 rotary encoder  
+
+Build
+Make example for this keyboard (after setting up your QMK environment):
+qmk compile -kb shubhmacropad -km default
+
+Flash
+Flashing example for this keyboard:
+qmk flash -kb shubhmacropad -km default
+
+Or manually:
+- Double press reset on the XIAO RP2040  
+- Drag and drop the .uf2 file onto the device  
+
+Bootloader
+Enter the bootloader in the following ways:
+- Double press the reset button on the XIAO RP2040  
+- Plug in the board while pressing reset  
+- Use the reset pads/button on the PCB if available  
